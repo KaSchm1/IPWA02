@@ -1,0 +1,122 @@
+[
+    {
+      "id": "1",
+      "unternehmen": "Saudi Aramco",
+      "co2": "59.26",
+      "land": "Saudi Arabien"
+    },
+    {
+      "id": "2",
+      "unternehmen": "Gazprom",
+      "co2": "43.35",
+      "land": "Russland"
+    },
+    {
+      "id": "3",
+      "unternehmen": "ExxonMobil",
+      "co2": "43.23",
+      "land": "United States"
+    },
+    {
+      "id": "4",
+      "unternehmen": "National Iranian Oil Co",
+      "co2": "2.468",
+      "land": "Iran"
+    },
+    {
+      "id": "5",
+      "unternehmen": "Royal Dutch Shell",
+      "co2": "31.95",
+      "land": "United States"
+    },
+    {
+      "id": "6",
+      "unternehmen": "Coal India",
+      "co2": "23.12",
+      "land": "India"
+    },
+    {
+      "id": "7",
+      "unternehmen": "Pemex",
+      "co2": "22.65",
+      "land": "Mexiko"
+    },
+    {
+      "id": "8",
+      "unternehmen": "Petroleos de Venezuela",
+      "co2": "1.216",
+      "land": "Venezuela"
+    },
+    {
+      "id": "9",
+      "unternehmen": "PetroChina",
+      "co2": "15.63",
+      "land": "China"
+    },
+    {
+      "id": "10",
+      "unternehmen": "Peabody Energy",
+      "co2": "15.39",
+      "land": "Vereinigte Staaten"
+    },
+    {
+      "id": "11",
+      "unternehmen": "Conoco Philips",
+      "co2": "15.23",
+      "land": "USA"
+    },
+    {
+      "id": "12",
+      "unternehmen": "Abu Dhabi National Oil Co",
+      "co2": "13.84",
+      "land": "United Arab Emirates"
+    },
+    {
+      "id": "13",
+      "unternehmen": "Kuwait Petroleum Corp",
+      "co2": "13.48",
+      "land": "Kuwait"
+    },
+    {
+      "id": "14",
+      "unternehmen": "Iraq National Oil Co",
+      "co2": "12.60",
+      "land": "Irak"
+    },
+    {
+      "id": "15",
+      "unternehmen": "Total SA",
+      "co2": "12.35",
+      "land": "Frankreich"
+    },
+    {
+      "id": "16",
+      "unternehmen": "Sonatrach",
+      "co2": "12.30",
+      "land": "Algerien"
+    },
+    {
+      "id": "17",
+      "unternehmen": "BHP Biliton",
+      "co2": "9.8",
+      "land": "Melbourne"
+    },
+    {
+      "id": "18",
+      "unternehmen": "Petrobas",
+      "co2": "8.68",
+      "land": "Brasilien"
+    },
+    {
+      "id": "19",
+      "unternehmen": "Chevron",
+      "co2": "43.35",
+      "land": "Vereinigte Staaten"
+    },
+    {
+      "id": "20",
+      "unternehmen": "BP",
+      "co2": "34.02",
+      "land": "Vereinigtes Königreich"
+    }
+  ]
